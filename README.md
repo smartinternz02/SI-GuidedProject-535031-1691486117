@@ -12,3 +12,6 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2Fonl
 
 Access the report with the following link
 https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2Fonline_education_report&action=run&format=HTML&prompt=false
+
+Access the project demonstration video
+https://youtu.be/sHfC2xGsBIA
