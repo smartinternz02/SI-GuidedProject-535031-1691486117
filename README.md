@@ -15,3 +15,8 @@ https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2Fonline_education_repo
 
 Access the project demonstration video
 https://youtu.be/sHfC2xGsBIA
+
+Credly public URLs of the course badges
+https://www.credly.com/badges/c3b50729-8495-4e2a-bd2a-af66496a7702/public_url
+https://www.credly.com/badges/cbad8195-c72f-40f7-b7c6-c4f38b1f6fe1/public_url
+
